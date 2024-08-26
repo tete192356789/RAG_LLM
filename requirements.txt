@@ -6,3 +6,4 @@ boto3
 langchain-core
 langchain-community
 ipykernel
+langchain-ollama
